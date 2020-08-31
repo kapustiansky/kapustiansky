@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oleg 💻 👋</h1>
-<h4 align="center">
+<h5 align="center">
   <img src="https://media.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif" width=300>
   <br><br>
   <samp>
@@ -8,10 +8,11 @@ Cumque reprehenderit odio, nostrum saepe commodi voluptatibus animi ad sit
 facere tenetur excepturi maxime exercitationem enim ea soluta eius 
 aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. :neutral_face:
   </samp>
-</h4>
+</h5>
+
+### <h2 align="center">Contact me :smiley:</h2>
 
 <p align="center">
-  ### <h2 align="center">Contact me :smiley:</h2>
 <a href="https://twitter.com/cs_vedant">
   <img alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
