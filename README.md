@@ -1,5 +1,5 @@
 <h1>Hi, I'm Oleg 💻 👋</h1>
-
+<img src="https://media.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif" width=100>
 <p align="center">
   <br><br>
   <samp>
