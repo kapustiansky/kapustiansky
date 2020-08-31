@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oleg 💻 👋</h1>
-<h5 align="center">
+<h4 align="center">
   <img src="https://media.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif" width=300>
   <br><br>
   <samp>
@@ -8,7 +8,7 @@ Cumque reprehenderit odio, nostrum saepe commodi voluptatibus animi ad sit
 facere tenetur excepturi maxime exercitationem enim ea soluta eius 
 aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. :neutral_face:
   </samp>
-</h5>
+</h4>
 
 ### <h2 align="center">Contact me :smiley:</h2>
 
