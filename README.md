@@ -10,7 +10,7 @@ aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. :neutral_face:
   </samp>
 </h4>
 
-### <h2 align="center">Contact me :smiley:<h2>
+### <h2 align="center">Contact me :smiley:</h2>
 
 <p align="center">
 <a href="https://twitter.com/cs_vedant">
