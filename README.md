@@ -11,7 +11,9 @@ aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. 🙃
 </h3>
 
 <h1 align="center">My hard skills 🤖</h1>
-
+<p align="center">
+<img alt="js" width="21px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/js.svg/>
+</p>
 <h1 align="center">Contact me 🖖</h1>
 
 <p align="center">
