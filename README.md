@@ -1,6 +1,6 @@
 <h1>Hi, I'm Oleg 💻 👋</h1>
-<img src="https://media.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif" width=100>
 <p align="center">
+  <img src="https://media.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif" width=300>
   <br><br>
   <samp>
     I'm Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vero, quas hic. 
