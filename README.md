@@ -27,6 +27,6 @@ aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. 🙃
   <img alt="linkedin" width="45px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/ln.svg"/>
 </a>
 <a href="">
-  <img alt="my site" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+  <img alt="my site" width="21px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/smile.svg"/>
 </a>
 </p>
