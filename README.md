@@ -6,13 +6,13 @@
     I'm Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vero, quas hic. 
 Cumque reprehenderit odio, nostrum saepe commodi voluptatibus animi ad sit
 facere tenetur excepturi maxime exercitationem enim ea soluta eius 
-aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. :neutral_face:
+aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. 🙃
   </samp>
 </h3>
 
 <h1 align="center">My hard skills 🤖</h1>
 
-<h1 align="center">Contact me :smiley:</h1>
+<h1 align="center">Contact me 🖖</h1>
 
 <p align="center">
 <a href="https://twitter.com/cs_vedant">
