@@ -10,7 +10,7 @@ aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. :neutral_face:
   </samp>
 </h3>
 
-<h1 align="center">My hard skills :smiley:</h1>
+<h1 align="center">My hard skills 🤖</h1>
 
 <h1 align="center">Contact me :smiley:</h1>
 
