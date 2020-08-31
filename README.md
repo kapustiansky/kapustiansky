@@ -12,21 +12,21 @@ aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. 🙃
 
 <h1 align="center">My hard skills 🤖</h1>
 <p align="center">
-<img alt="js" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/js.svg"/>
+<img alt="js" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/js.svg"/>
 </p>
 <h1 align="center">Contact me 🖖</h1>
 
 <p align="center">
 <a href="https://www.facebook.com/oleg.kapustiansky">
-  <img alt="facebook" width="21px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/f.svg"/>
+  <img alt="facebook" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/f.svg"/>
 </a>
-<a href="https://twitter.com/cs_vedant">
-  <img alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+<a href="https://t.me/oleg_kapustianky">
+  <img alt="telegram" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/tel.svg"/>
 </a>
-<a href="https://twitter.com/cs_vedant">
-  <i class="fab fa-js"></i>
+<a href="https://www.linkedin.com/in/oleg-kapustiansky/">
+  <img alt="linkedin" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/ln.svg"/>
 </a>
-<a href="https://twitter.com/cs_vedant">
-  <img alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+<a href="">
+  <img alt="my site" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
 </p>
