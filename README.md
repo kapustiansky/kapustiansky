@@ -17,12 +17,12 @@ aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. 🙃
 <h1 align="center">Contact me 🖖</h1>
 
 <p align="center">
-<a href="https://www.facebook.com/oleg.kapustiansky">
-  <blockquote align="center">
+<a align="center" href="https://www.facebook.com/oleg.kapustiansky">
+  <blockquote>
   <img alt="facebook" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/f.svg"/>
   </blockquote>
 </a>
-<a href="https://www.linkedin.com/in/oleg-kapustiansky/">
+<a align="center" href="https://www.linkedin.com/in/oleg-kapustiansky/">
   <blockquote>
   <img alt="linkedin" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/ln.svg"/>
   </blockquote>
