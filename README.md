@@ -17,24 +17,24 @@ aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. 🙃
 <h1 align="center">Contact me 🖖</h1>
 
 <p align="center">
-<img alt="break" height="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
+<img alt="break" height="44px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
 <a href="https://www.facebook.com/oleg.kapustiansky">
   <img alt="facebook" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/f.svg"/>
 </a>
   
-<img alt="break" height="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
+<img alt="break" height="44px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
 <a href="https://www.linkedin.com/in/oleg-kapustiansky/">
   <img alt="linkedin" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/ln.svg"/>
 </a>
 
-<img alt="break"  height="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
+<img alt="break"  height="44px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
 <a href="https://t.me/oleg_kapustianky">
   <img alt="telegram" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/tel.svg"/>
 </a>
 
-<img alt="break"  height="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
+<img alt="break"  height="44px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
 <a href="https://kapustiansky.tk/">
   <img alt="my site" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/smile.svg"/>
 </a>
-<img alt="break" height="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
+<img alt="break" height="44px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
 </p>
