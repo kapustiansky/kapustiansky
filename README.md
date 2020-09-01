@@ -20,7 +20,7 @@ aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. 🙃
 <a href="https://www.facebook.com/oleg.kapustiansky">
   <img alt="facebook" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/f.svg"/>
 </a>
-<a href="https://www.linkedin.com/in/oleg-kapustiansky/">
+<a style="margin-left: 40px" href="https://www.linkedin.com/in/oleg-kapustiansky/">
   <img alt="linkedin" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/ln.svg"/>
 </a>
 <a href="https://t.me/oleg_kapustianky">
