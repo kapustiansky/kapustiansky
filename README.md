@@ -20,8 +20,8 @@ aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. 🙃
 <img alt="wordpress" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/wordpress.svg"/>
 <img alt="react" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/react.svg"/>
 <img alt="redux" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/redux.svg"/>
-<img alt="md" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/md.svg"/>
-<img alt="sqlite" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/sqkite.svg"/>
+<img alt="mongodb" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/mongodb.svg"/>
+<img alt="mysql" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/mysql.svg"/>
 </p>
 <h1 align="center">Contact me 🖖</h1>
 
