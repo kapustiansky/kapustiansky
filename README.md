@@ -17,6 +17,11 @@ aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. 🙃
 <img alt="html" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/html.svg"/>
 <img alt="css" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/css.svg"/>
 <img alt="bootstrap" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/bootstrap.svg"/>
+<img alt="wordpress" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/wordpress.svg"/>
+<img alt="react" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/react.svg"/>
+<img alt="redux" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/redux.svg"/>
+<img alt="md" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/md.svg"/>
+<img alt="sqlite" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/sqkite.svg"/>
 </p>
 <h1 align="center">Contact me 🖖</h1>
 
