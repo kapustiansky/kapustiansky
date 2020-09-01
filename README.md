@@ -18,7 +18,7 @@ aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. 🙃
 
 <p align="center">
 <a href="https://www.facebook.com/oleg.kapustiansky">
-  <blockquote>
+  <blockquote align="center">
   <img alt="facebook" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/f.svg"/>
   </blockquote>
 </a>
