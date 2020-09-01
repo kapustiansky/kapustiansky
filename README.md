@@ -14,6 +14,7 @@ aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. 🙃
 <p align="center">
 <img alt="js" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/js.svg"/>
 <img alt="node" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/node.svg"/>
+<img alt="html" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/html.svg"/>
 </p>
 <h1 align="center">Contact me 🖖</h1>
 
