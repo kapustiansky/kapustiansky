@@ -17,12 +17,7 @@ aut dolorum quidem dignissimos nemo aspernatur voluptate eaque. 🙃
 <h1 align="center">Contact me 🖖</h1>
 
 <p align="center">
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 4 20" style="enable-background:new 0 0 4 20;" xml:space="preserve">
-<line style="fill:none;stroke:#B3B3B3;stroke-width:4;stroke-miterlimit:10;" x1="2" y1="0" x2="2" y2="20"/>
-</svg>
+<img alt="facebook" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
 <a href="https://www.facebook.com/oleg.kapustiansky">
   <img alt="facebook" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/f.svg"/>
 </a>
