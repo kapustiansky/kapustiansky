@@ -4,8 +4,7 @@
   <br><br>
   <samp>
     I'm a fun and friendly front-end developer. 
-Extremely motivated to constantly develop my skills and grow professionally. I may not be so
-experienced, but I am a person with whom you will want to meet and work. 🙃
+Extremely motivated to constantly develop my skills and grow professionally. Only my code will say more about me. I am a person with whom you will want to meet and work. 🙃
   </samp>
 </h3>
 
