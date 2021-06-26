@@ -16,9 +16,11 @@ Extremely motivated to constantly develop my skills and grow professionally. Onl
 <img alt="css" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/css.svg"/>
 <img alt="bootstrap" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/bootstrap.svg"/>
 <img alt="wordpress" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/wordpress.svg"/>
+  <img alt="mysql" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/opencart.svg"/>
 <img alt="react" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/react.svg"/>
 <img alt="redux" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/redux.svg"/>
 <img alt="mongodb" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/mongodb.svg"/>
+<img alt="mysql" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/vue.svg"/>
 <img alt="mysql" width="60px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/mysql.svg"/>
 </p>
 <h1 align="center">Contact me 🖖</h1>
