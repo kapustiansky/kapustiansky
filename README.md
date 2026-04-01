@@ -41,5 +41,5 @@ Extremely motivated to constantly develop my skills and grow professionally. Onl
 <a href="https://webdew.me/">
   <img alt="my site" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/smile.svg"/>
 </a>
-<img alt="break" height="44px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
+<img alt="break" height="44px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/icon.svg"/>
 </p>
