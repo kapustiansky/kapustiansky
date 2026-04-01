@@ -26,10 +26,6 @@ Extremely motivated to constantly develop my skills and grow professionally. Onl
 <h1 align="center">Contact me 🖖</h1>
 
 <p align="center">
-<img alt="break" height="44px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
-<a href="https://www.facebook.com/oleg.kapustiansky">
-  <img alt="facebook" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/f.svg"/>
-</a>
   
 <img alt="break" height="44px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
 <a href="https://www.linkedin.com/in/oleg-kapustiansky/">
@@ -37,12 +33,12 @@ Extremely motivated to constantly develop my skills and grow professionally. Onl
 </a>
 
 <img alt="break"  height="44px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
-<a href="https://t.me/oleg_kapustianky">
+<a href="https://t.me/dont_p4n1c">
   <img alt="telegram" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/tel.svg"/>
 </a>
 
 <img alt="break"  height="44px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
-<a href="https://kapustiansky.tk/">
+<a href="https://webdew.me/">
   <img alt="my site" width="40px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/smile.svg"/>
 </a>
 <img alt="break" height="44px" src="https://github.com/kapustiansky/kapustiansky/blob/master/images/line.svg"/>
